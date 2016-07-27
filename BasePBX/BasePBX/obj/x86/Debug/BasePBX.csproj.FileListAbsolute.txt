@@ -1,0 +1,30 @@
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\bin\Debug\BasePBX.exe.config
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\bin\Debug\BasePBX.exe
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\bin\Debug\BasePBX.pdb
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.exe
+C:\Users\Agnieszka\Documents\Ozeki\Ozeki SDK\Examples\VoIP\02_PBX\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.pdb
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\bin\Debug\BasePBX.exe.config
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.exe
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.pdb
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\bin\Debug\BasePBX.exe
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\bin\Debug\BasePBX.pdb
+C:\Users\Agnieszka\Desktop\01_BasePBX\BasePBX\obj\x86\Debug\BasePBX.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\bin\Debug\BasePBX.exe.config
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\obj\x86\Debug\BasePBX.exe
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\obj\x86\Debug\BasePBX.pdb
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\bin\Debug\BasePBX.exe
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\bin\Debug\BasePBX.pdb
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\BasePBX\BasePBX\obj\x86\Debug\BasePBX.csprojResolveAssemblyReference.cache
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\bin\Debug\BasePBX.exe.config
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\obj\x86\Debug\BasePBX.exe
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\obj\x86\Debug\BasePBX.pdb
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\bin\Debug\BasePBX.exe
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\bin\Debug\BasePBX.pdb
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\BasePBX\BasePBX\obj\x86\Debug\BasePBX.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\New folder\BasePBX\BasePBX\bin\Debug\BasePBX.exe.config
+C:\Users\Adrian\Desktop\New folder\BasePBX\BasePBX\obj\x86\Debug\BasePBX.exe
+C:\Users\Adrian\Desktop\New folder\BasePBX\BasePBX\obj\x86\Debug\BasePBX.pdb

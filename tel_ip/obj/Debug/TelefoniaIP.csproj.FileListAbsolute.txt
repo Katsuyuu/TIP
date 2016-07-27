@@ -1,0 +1,196 @@
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.Form1.resources
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Documents\Visual Studio 2015\Projects\TelefoniaIP\obj\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\bin\Debug\OzekiSDK.xml
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe.config
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.exe
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.pdb
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.pdb
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\bin\Debug\OzekiSDK.xml
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+D:\Studia\Sem VI\Podstawy Teleinformatyki\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+F:\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe.config
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.exe
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.pdb
+F:\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.exe
+F:\Tel_IP\tel_ip\bin\Debug\TelefoniaIP.pdb
+F:\Tel_IP\tel_ip\bin\Debug\Newtonsoft.Json.dll
+F:\Tel_IP\tel_ip\bin\Debug\OzekiSDK.xml
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+F:\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Adrian\Desktop\Projekty\Sem_VI\Tel_IP\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Desktop\Tel_IP-master\tel_ip\bin\Debug\OzekiSDK.xml
+C:\Users\Adrian\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Adrian\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\TIP\tel_ip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\TIP\tel_ip\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip223322\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Desktop\TIP\tel_ip11111\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Downloads\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.exe
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\TelefoniaIP.pdb
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\FluorineFx.dll
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiComputerVision.dll
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiSDK.dll
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\bin\Debug\OzekiSDK.xml
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Agnieszka\Desktop\Telefonia ip projekt - klasy\tel_ip11111\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.exe.config
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.exe
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.pdb
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.exe
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\bin\Debug\TelefoniaIP.pdb
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\bin\Debug\OzekiSDK.xml
+D:\Studia\Sem VI\Telefonia IP\Tel_IP-master\tel_ip\obj\Debug\TelefoniaIP.Views.Registration.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\TelefoniaIP.exe.config
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.Views.ConnectionView.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.ConversationControllerView.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.Properties.Resources.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.Views.InComingCall.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.Views.Registration.resources
+C:\Users\Adrian\Desktop\New folder\tel_ip\obj\Debug\TelefoniaIP.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\TelefoniaIP.exe
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\TelefoniaIP.pdb
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\FluorineFx.dll
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\OzekiComputerVision.dll
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\OzekiMediaGateway.dll
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\OzekiSDK.dll
+C:\Users\Adrian\Desktop\New folder\tel_ip\bin\Debug\OzekiSDK.xml
